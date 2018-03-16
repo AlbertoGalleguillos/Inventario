@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+.page-footer {
+    padding: 0
+}
+
+.big{
+    font-size: 144px;
+}
+
+.breadcrumb:before {
+    color: #000;
+}
+
+.padding-left-60 {
+    padding-left: 60px;
+}
